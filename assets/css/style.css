@@ -24,6 +24,12 @@ header {
     background-color: white;
 }
 
+h1 {
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
 /* Main content */
 main {
     background-color: red;
