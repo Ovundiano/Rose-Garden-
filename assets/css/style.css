@@ -24,7 +24,7 @@ header {
     background-color: white;
     padding: 0 1rem;
     position: fixed;
-    z-index: 999;
+    z-index: 99;
     width: 100%;
     display: flex;
     justify-content: space-between;
@@ -58,6 +58,31 @@ h1 {
 
 .active {
     border-bottom: 2px solid black;
+}
+
+/* Nav styles with dropdown toggle */
+nav {
+    position: absolute;
+    width: 100%;
+    background-color: white;
+    left: 0;
+    padding: 0 1rem;
+    box-shadow: none;
+    display: none;
+    top: 100%;
+}
+
+/* Nav toggle */
+#nav-toggle:checked~nav {
+    display: block;
+}
+
+#nav-toggle {
+    display: none;
+}
+
+.nav-toggle-label {
+    font-size: 2rem;
 }
 
 /* Main content */
