@@ -19,15 +19,29 @@ body {
 }
 
 
-/* Header */
+/* Header styles*/
 header {
     background-color: white;
+    padding: 0 1rem;
+    position: fixed;
+    z-index: 999;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: none;
 }
 
-h1 {
+header a {
+    text-decoration: none;
+    color: black;
+}
+
+#logo {
     font-family: "Lato", sans-serif;
     font-weight: 700;
     font-style: italic;
+    letter-spacing: 1px;
 }
 
 /* Main content */
