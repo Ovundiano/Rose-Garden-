@@ -37,11 +37,27 @@ header a {
     color: black;
 }
 
-#logo {
+/* Logo style */
+h1 {
     font-family: "Lato", sans-serif;
     font-weight: 700;
     font-style: italic;
     letter-spacing: 1px;
+}
+
+/* Nav style */
+#bar {
+    font-size: 80%;
+    letter-spacing: 2px;
+    list-style-type: none;
+}
+
+#bar>li {
+    margin-bottom: 0.5em;
+}
+
+.active {
+    border-bottom: 2px solid black;
 }
 
 /* Main content */
