@@ -138,3 +138,10 @@ footer {
         margin-top: 79px;
     }
 }
+
+/* Large devices (laptops and desktops, 992px and up) */
+@media screen and (min-width: 992px) {
+    #bar a:hover {
+        border-bottom: 2px solid black;
+    }
+}
