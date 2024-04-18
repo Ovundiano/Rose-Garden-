@@ -193,15 +193,22 @@ main {
         margin-top: 79px;
     }
 
-    /* Hero image */
+    /* Hero section */
     #text-cover {
         width: 300px;
         right: 50px;
+        min-height: 500px;
+    }
+
+    /* Hero image */
+    #hero {
+        height: 750px;
     }
 
    /* Reasons section */
    #reasons {
     width: 100%;
+    height: 300px;
    }
 
    #what-we-do {
