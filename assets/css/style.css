@@ -20,6 +20,12 @@ body {
     font-family: 'Lato', sans-serif;
 }
 
+h1, h2, p {
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+    letter-spacing: 1px;
+}
 
 /* Header styles*/
 header {
@@ -37,14 +43,6 @@ header {
 header a {
     text-decoration: none;
     color: black;
-}
-
-/* Logo style */
-h1 {
-    font-family: "Lato", sans-serif;
-    font-weight: 700;
-    font-style: italic;
-    letter-spacing: 1px;
 }
 
 /* Nav style */
@@ -103,6 +101,16 @@ main {
     position: relative;
 }
 
+#text-cover {
+    color: whitesmoke;
+    position: absolute;
+    bottom: 30px;
+    width: 80%;
+    min-height: 200px;
+    padding-top: 40px;
+    text-align: center;
+}
+
 /* Footer */
 #social-networks {
     text-align: center;
@@ -155,8 +163,14 @@ main {
         margin-top: 79px;
     }
 
+    /* Hero image */
     #hero {
         height: 850px;
+    }
+
+     #text-cover {
+        width: 300px;
+        right: 50px;
     }
 
 /* Footer */
