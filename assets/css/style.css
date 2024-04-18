@@ -20,7 +20,7 @@ body {
     font-family: 'Lato', sans-serif;
 }
 
-h1, h2, p {
+h1, h2, h3 {
     font-family: "Lato", sans-serif;
     font-weight: 700;
     font-style: italic;
@@ -111,6 +111,10 @@ main {
     min-height: 200px;
     padding-top: 40px;
     padding-left: 20px;
+}
+
+#description {
+    margin-top: 30px;
 }
 
 /* Reasons section */
