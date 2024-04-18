@@ -89,17 +89,24 @@ nav {
 
 /* Main content */
 main {
-    background-color: red;
     /* Make main content take up any surplus space to push footer down */
     flex: 1 0 auto;
     /* Add margin at the top to prevent content from being covered by the header */
     margin-top: 47px;
 }
 
+/* Hero section */
+#hero {
+    height: 600px;
+    width: 100%;
+    background: url("../images/hero-image.webp") no-repeat center center/cover;
+    position: relative;
+}
+
 /* Footer */
 #social-networks {
     text-align: center;
-    padding: 15px 0;
+    padding: 20px 0;
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
@@ -147,6 +154,15 @@ main {
         /* Push main content down to accommodate larger header */
         margin-top: 79px;
     }
+
+    #hero {
+        height: 850px;
+    }
+
+/* Footer */
+   #social-networks i {
+       font-size: 200%;
+   }
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
