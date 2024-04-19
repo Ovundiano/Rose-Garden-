@@ -181,6 +181,53 @@ main {
     line-height: 0;
 }
 
+/* Order Section */
+#order {
+    /* Image gotten from Amazon */
+    background-image: url("../images/rose-8.webp");
+    background-size: cover;
+    background-position: 75%;
+    padding: 20px 10% 0 10%;
+    flex-grow: 1;
+}
+
+#order-form {
+    color: whitesmoke;
+    background-color: rgba(60, 60, 60, 0.6);
+    padding: 30px;
+}
+
+#signup-form>h2 {
+    color: whitesmoke;
+    margin-bottom: 20px;
+}
+
+.text-input {
+    background: transparent;
+    color: whitesmoke;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid whitesmoke;
+    border-radius: 2px;
+    padding: 0 5px;
+}
+
+.radio-buttons {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.join-button {
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px;
+    font-size: 100%;
+    background-color: #454b1b;
+    color: #fafafa;
+}
+
 /* Footer */
 #social-networks {
     text-align: center;
@@ -266,10 +313,31 @@ main {
     justify-content: space-evenly;
 }
 
-/* Gallery */
+/* Gallery Section */
 #photos {
     column-count: 2;
 }
+
+    /* Order Section */
+    #order {
+        background-position: center;
+    }
+
+    #order-form {
+        max-width: 300px;
+        position: relative;
+        left: 10%;
+        top: 400px;
+    }
+
+    .text-input:hover {
+        border-color: #f16c6b;
+    }
+
+    .join-button:hover {
+        background-color: #fafafa;
+        color: #454b1b;
+    }
 
 /* Footer */
    #social-networks i {
@@ -283,8 +351,29 @@ main {
         border-bottom: 2px solid black;
     }
 
-    /* Gallery */
+    /* Gallery Section */
     #photos {
         column-count: 3;
     }
+
+        /* Order Section */
+        #order {
+            background-position: center;
+        }
+    
+        #order-form {
+            max-width: 400px;
+            position: relative;
+            left: 10%;
+            top: 20px;
+        }
+    
+        .text-input:hover {
+            border-color: #f16c6b;
+        }
+    
+        .join-button:hover {
+            background-color: #fafafa;
+            color: #454b1b;
+        }
 }
