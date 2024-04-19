@@ -101,6 +101,7 @@ main {
 #hero {
     height: 600px;
     width: 100%;
+    /* Image gotten from Amazon.com */
     background: url("../images/hero-image.webp") no-repeat center center/cover;
     position: relative;
 }
@@ -124,6 +125,7 @@ main {
 /* Reasons section */
 #reasons {
     width: 100%;
+    /* Image gotten from Amazon.com */
     background: url("../images/rose-2.webp") no-repeat center center/cover;
 }
 
