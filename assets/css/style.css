@@ -27,6 +27,10 @@ h1, h2, h3 {
     letter-spacing: 1px;
 }
 
+.hidden-heading {
+    display: none;
+}
+
 /* Header styles*/
 header {
     background-color: white;
@@ -145,6 +149,39 @@ main {
     list-style-type: none;
 }
 
+/*Contact Section */
+#contact {
+    #contact {
+        margin-bottom: 5px;
+        height: 150px;
+    }
+
+    #contact-boxes-container {
+        display: flex;
+        justify-content: center;
+        height: 120px;
+        gap: 40px;
+        margin-top: 50px;
+    }
+
+    .contact-box {
+        flex: 0 250px;
+        height: 100px;
+    }
+
+    .get-in-touch {
+        order: 2;
+    }
+
+    .text-center {
+        text-align: center;
+    }
+
+    .text-right {
+        text-align: right;
+    }
+}
+
 /* Footer */
 #social-networks {
     text-align: center;
@@ -152,12 +189,14 @@ main {
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
+    background-color: green;
 }
 
 #social-networks i {
     font-size: 200%;
     padding: 5%;
-    color: black;
+    color: whitesmoke;
+
 }
 
 /* Media query: tablets and larger (768px and up) */
