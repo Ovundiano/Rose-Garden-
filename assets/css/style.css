@@ -171,6 +171,16 @@ main {
     }
 }
 
+/* Gallery page */
+#photos img {
+    width: 100%;
+    line-height: 1em;
+}
+
+#photos {
+    line-height: 0;
+}
+
 /* Footer */
 #social-networks {
     text-align: center;
@@ -256,6 +266,10 @@ main {
     justify-content: space-evenly;
 }
 
+/* Gallery */
+#photos {
+    column-count: 2;
+}
 
 /* Footer */
    #social-networks i {
@@ -267,5 +281,10 @@ main {
 @media screen and (min-width: 992px) {
     #bar a:hover {
         border-bottom: 2px solid black;
+    }
+
+    /* Gallery */
+    #photos {
+        column-count: 3;
     }
 }
