@@ -153,32 +153,19 @@ main {
 #contact {
     #contact {
         margin-bottom: 5px;
-        height: 150px;
     }
 
     #contact-boxes-container {
-        display: flex;
-        justify-content: center;
-        height: 120px;
-        gap: 40px;
-        margin-top: 50px;
+        margin-top: 10px;
+        margin-bottom: 10px;
     }
 
-    .contact-box {
-        flex: 0 250px;
-        height: 100px;
-    }
-
-    .get-in-touch {
-        order: 2;
-    }
-
-    .text-center {
+    #contact-boxes-container div {
         text-align: center;
     }
 
-    .text-right {
-        text-align: right;
+    .time {
+        padding-left: 50px;
     }
 }
 
@@ -259,6 +246,13 @@ main {
        display: flex;
        justify-content: center;
    }
+
+   /* Contact Section */
+   #contact-boxes-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
 
 
 /* Footer */
