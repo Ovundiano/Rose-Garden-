@@ -1,6 +1,6 @@
 /* Google fonts import */
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,700&display=swap') ;
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100&display=swap') ;
 
 
 /* Asterisk wildcard selector to override default styles added by the browser */
@@ -153,7 +153,6 @@ main {
 
 /*Contact Section */
 #contact {
-    #contact {
         margin-bottom: 5px;
     }
 
@@ -169,7 +168,6 @@ main {
     .time {
         padding-left: 50px;
     }
-}
 
 /* Gallery page */
 #photos img {
