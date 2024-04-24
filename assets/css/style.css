@@ -190,12 +190,15 @@ main {
     background-position: 75%;
     padding: 20px 10% 0 10%;
     flex-grow: 1;
+    width: 100%;
 }
 
 #order-form {
     color: whitesmoke;
     background-color: rgba(60, 60, 60, 0.6);
     padding: 30px;
+    margin-top: 250px;
+    margin-bottom: 30px;
 }
 
 #signup-form>h2 {
