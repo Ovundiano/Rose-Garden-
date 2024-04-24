@@ -374,18 +374,18 @@ main {
 
     /* Hero section */
     #text-cover {
-        width: 300px;
+        width: 400px;
         right: 100px;
         min-height: 350px;
-        margin-bottom: 130px;
+        margin-bottom: 200px;
         padding-top: 30;
+        padding-bottom: 10px;
     }
 
-    /* Hero image */
     #hero {
-        height: 1200px;
+        height: 1000px
     }
-
+    
     /* Gallery Section */
     #photos {
         column-count: 3;
