@@ -107,6 +107,7 @@ main {
 }
 
 #text-cover {
+    background-color: rgba(0, 0, 0, 0.74);
     font-style: italic;
     color: whitesmoke;
     font-weight: bold;
