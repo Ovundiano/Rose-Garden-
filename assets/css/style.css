@@ -345,10 +345,10 @@ main {
     }
 
     #order-form {
-        max-width: 300px;
+        max-width: 400px;
         position: relative;
         left: 10%;
-        top: 400px;
+        top: 100px;
     }
 
     .text-input:hover {
