@@ -33,7 +33,7 @@
   - This section gives details to users on what rose garden does: Vase collection, Funeral, New baby/Baby shower, Birthday, Gift Sets and Sympathy arrangement. 
   - This should encourage users to consider placing an order for rose flowers. 
 
-![What we do?]()
+![What we do?](assets/images/what-we-do.png)
 
 - __Contact__
 
