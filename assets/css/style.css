@@ -99,7 +99,7 @@ main {
 
 /* Hero section */
 #hero {
-    height: 600px;
+    height: 100vh;
     width: 100%;
     /* Image gotten from Amazon.com */
     background: url("../images/hero-image.webp") no-repeat center center/cover;
@@ -117,6 +117,7 @@ main {
     min-height: 200px;
     padding-top: 30px;
     padding-left: 20px;
+    margin-bottom: 100px;
 }
 
 #description {
@@ -198,8 +199,8 @@ main {
     color: whitesmoke;
     background-color: rgba(60, 60, 60, 0.6);
     padding: 30px;
-    margin-top: 250px;
-    margin-bottom: 30px;
+    margin-top: 150px;
+    margin-bottom: 100px;
 }
 
 #order-form>h2 {
@@ -249,11 +250,11 @@ main {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin-top: 150px;
+  margin-top: 200px;
+  margin-right: 15px;
+  margin-left: 15px;
   background-color: rgba(60, 60, 60, 0.6);
-  width: 75%;
   color: whitesmoke;
-  margin-left: 40px;
 }
 .response_text p {
   font-size: 150%;
@@ -328,21 +329,15 @@ main {
         width: 400px;
         right: 50px;
         min-height: 350px;
-        margin-bottom: 100px;
+        margin-bottom: 200px;
         padding-top: 30;
         line-height: 30px;
         font-size: 150%;
     }
 
-    /* Hero image */
-    #hero {
-        height: 750px;
-    }
-
    /* Reasons section */
    #reasons {
     width: 100%;
-    height: 500px;
    }
 
    #reasons h2, 
@@ -372,26 +367,43 @@ main {
     column-count: 2;
 }
 
-    /* Order Section */
-    #order {
-        background-position: center;
-    }
+/* Order Section */
+#order {
+background-position: center;
+}
 
-    #order-form {
-        max-width: 400px;
-        position: relative;
-        left: 10%;
-        top: 100px;
-    }
+#order-form {
+max-width: 400px;
+position: relative;
+left: 15%;
+top: 100px;
+}
 
-    .text-input:hover {
-        border-color: #f16c6b;
-    }
+.text-input:hover {
+border-color: #f16c6b;
+}
 
-    .join-button:hover {
-        background-color: #fafafa;
-        color: #454b1b;
-    }
+.join-button:hover {
+background-color: #fafafa;
+color: #454b1b;
+}
+
+/* Response */
+#response {
+width: 100%;
+}
+
+.response_text {
+    min-width: 300px;
+    margin-bottom: 300px;
+    margin-left: 20px;
+    margin-top: 200px;
+    margin-right: 60px;
+}
+
+.response_text p {
+    font-size: 200%;
+}
 
 /* Footer */
    #social-networks i {
@@ -410,15 +422,11 @@ main {
         width: 400px;
         right: 100px;
         min-height: 350px;
-        margin-bottom: 200px;
+        margin-bottom: 100px;
         padding-top: 30;
         padding-bottom: 10px;
         line-height: 40px;
         font-size: 150%;
-    }
-
-    #hero {
-        height: 1200px
     }
     
     /* Gallery Section */
