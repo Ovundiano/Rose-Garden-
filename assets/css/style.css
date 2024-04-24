@@ -191,6 +191,7 @@ main {
     padding: 20px 10% 0 10%;
     flex-grow: 1;
     width: 100%;
+    height: 80vh;
 }
 
 #order-form {
@@ -234,8 +235,35 @@ main {
 
 /* Response Page */
 #response {
-    max-width: 90%;
-  }
+    /* Image gotten from Amazon */
+    background-image:url("../images/rose-8.webp");
+    width: 100%;
+    height: 80vh;
+    background-size: cover;
+    background-position: 75%;
+    padding-top: 10px;
+}
+
+.response_text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 150px;
+  background-color: rgba(60, 60, 60, 0.6);
+  width: 75%;
+  color: whitesmoke;
+  margin-left: 40px;
+}
+.response_text p {
+  font-size: 150%;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.1rem;
+  text-align: center;
+  margin-top: 50px; 
+  margin-bottom: 50px;
+}
 
 /* Footer */
 #social-networks {
