@@ -201,7 +201,7 @@ main {
     margin-bottom: 30px;
 }
 
-#signup-form>h2 {
+#order-form>h2 {
     color: whitesmoke;
     margin-bottom: 20px;
 }
@@ -231,6 +231,11 @@ main {
     background-color: #454b1b;
     color: #fafafa;
 }
+
+/* Response Page */
+#response {
+    max-width: 90%;
+  }
 
 /* Footer */
 #social-networks {
