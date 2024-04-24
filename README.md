@@ -15,7 +15,7 @@
   - The navigation is in a Lato font with Rose Garden in Italic font style and other links in normal font style and a color that contrast with the background.
   - The navigation clearly tell the users the name of the website with informations easy to find in different sections.
 
-![Nav Bar](assets/images/nav-bar.png)
+![Nav Bar](documentation/nav-bar.png)
 
 - __The Hero Section__
 
@@ -33,7 +33,7 @@
   - This section gives details to users on what rose garden does: Vase collection, Funeral, New baby/Baby shower, Birthday, Gift Sets and Sympathy arrangement. 
   - This should encourage users to consider placing an order for rose flowers. 
 
-![What we do?](assets/images/what-we-do.png)
+![What we do?](documentation/what-we-do.png)
 
 - __Contact__
 
