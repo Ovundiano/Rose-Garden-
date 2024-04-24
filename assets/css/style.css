@@ -417,16 +417,15 @@ width: 100%;
         border-bottom: 2px solid black;
     }
 
-    /* Hero section */
     #text-cover {
         width: 400px;
         right: 100px;
-        min-height: 350px;
+        min-height: 300px;
         margin-bottom: 100px;
         padding-top: 30;
         padding-bottom: 10px;
-        line-height: 40px;
-        font-size: 150%;
+        line-height: 20px;
+        font-size: 100%;
     }
     
     /* Gallery Section */
