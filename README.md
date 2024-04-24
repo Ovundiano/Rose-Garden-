@@ -4,7 +4,7 @@
 
    Users of this website will be able to get informations on Rose Garden i.e, what we do, open times, get in touch, gallery and how to place an order.
 
-![Responsive Mockup]()
+![Responsive Mockup](./assets/images/hero-image.webp)
 
 ## Features 
 
