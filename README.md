@@ -4,7 +4,7 @@
 
    Users of this website will be able to get informations on Rose Garden i.e, what we do, open times, get in touch, gallery and how to place an order.
 
-![Responsive Mockup](./assets/images/hero-image.webp)
+![Responsive Mockup]()
 
 ## Features 
 
@@ -15,7 +15,7 @@
   - The navigation is in a Lato font with Rose Garden in Italic font style and other links in normal font style and a color that contrast with the background.
   - The navigation clearly tell the users the name of the website with informations easy to find in different sections.
 
-![Nav Bar](assets/images/Screenshot (23).png)
+![Nav Bar](assets/images/nav-bar.png)
 
 - __The Hero Section__
 
