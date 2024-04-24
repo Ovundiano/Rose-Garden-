@@ -115,7 +115,7 @@ main {
     bottom: 20px;
     width: 80%;
     min-height: 200px;
-    padding-top: 80px;
+    padding-top: 30px;
     padding-left: 20px;
 }
 
@@ -289,7 +289,9 @@ main {
     #text-cover {
         width: 300px;
         right: 50px;
-        min-height: 500px;
+        min-height: 350px;
+        margin-bottom: 130px;
+        padding-top: 30;
     }
 
     /* Hero image */
@@ -352,6 +354,20 @@ main {
 @media screen and (min-width: 992px) {
     #bar a:hover {
         border-bottom: 2px solid black;
+    }
+
+    /* Hero section */
+    #text-cover {
+        width: 300px;
+        right: 100px;
+        min-height: 350px;
+        margin-bottom: 130px;
+        padding-top: 30;
+    }
+
+    /* Hero image */
+    #hero {
+        height: 1200px;
     }
 
     /* Gallery Section */
