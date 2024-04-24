@@ -25,7 +25,7 @@
   - It also tell the users what rose garden specializes on. 
   - This section introduces the user to Rose Garden with an eye catching animation to grab their attention.
 
-![Hero section]()
+![Hero section](assets/images/hero-section.webp)
 
 - __What We Do?__
 
