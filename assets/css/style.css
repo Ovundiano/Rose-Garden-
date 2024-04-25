@@ -99,10 +99,10 @@ main {
 
 /* Hero section */
 #hero {
-    height: 100vh;
+    height: 55vh;
     width: 100%;
     /* Image gotten from Amazon.com */
-    background: url("../images/hero-image.webp") no-repeat center center/cover;
+    background: url("../images/hero-image.png") no-repeat center center/cover;
     position: relative;
 }
 
@@ -114,10 +114,10 @@ main {
     position: absolute;
     bottom: 20px;
     width: 80%;
-    min-height: 200px;
-    padding-top: 30px;
+    min-height: 100px;
+    padding-top: 20px;
     padding-left: 20px;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 
 #description {
@@ -325,6 +325,10 @@ main {
     }
 
     /* Hero section */
+
+    #hero {
+        height: 100vh;
+    }
     #text-cover {
         width: 400px;
         right: 50px;
@@ -415,6 +419,12 @@ width: 100%;
 @media screen and (min-width: 992px) {
     #bar a:hover {
         border-bottom: 2px solid black;
+    }
+
+    /* Hero section */
+    #hero {
+        height: 600px;
+        width: 80%;
     }
 
     #text-cover {
