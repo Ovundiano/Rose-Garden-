@@ -91,19 +91,22 @@ nav {
 
 /* Main content */
 main {
-    /* Make main content take up any surplus space to push footer down */
+    /* Enlarge main element to push footer down */
     flex: 1 0 auto;
     /* Add margin at the top to prevent content from being covered by the header */
     margin-top: 47px;
+    /* Enable flex properties for child elements */
+    display: flex;
+    flex-direction: column;
 }
 
 /* Hero section */
 #hero {
-    height: 55vh;
-    width: 100%;
-    /* Image gotten from Amazon.com */
-    background: url("../images/hero-image.png") no-repeat center center/cover;
-    position: relative;
+        min-height: 80vh;
+        width: 100%;
+        /* Image gotten from Amazon.com */
+        background: url("../images/hero-image.jpeg") no-repeat center center/cover;
+        position: relative;
 }
 
 #text-cover {
@@ -111,13 +114,13 @@ main {
     font-style: italic;
     color: whitesmoke;
     font-weight: bold;
-    position: absolute;
-    bottom: 20px;
     width: 80%;
     min-height: 100px;
-    padding-top: 20px;
+    padding-top: 40px;
     padding-left: 20px;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
+    margin-top: 50px;
+    justify-content: flex-end;
 }
 
 #description {
@@ -125,34 +128,43 @@ main {
 }
 
 /* Reasons section */
-#reasons {
-    width: 100%;
-    /* Image gotten from Amazon.com */
-    background: url("../images/rose-2.webp") no-repeat center center/cover;
+#reason {
+        width: 90%;
+        margin: 20px auto;
+        justify-content: flex-end;
 }
 
-#reasons h2, 
-#reasons p {
+#reason h2 {
     color: whitesmoke;
-    margin-bottom: 20px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 150%;
+    background-color: rgba(60, 60, 60, 0.5);
+}
+
+#reason p {
+    color: whitesmoke;
+    margin-top: 20px;
     text-align: center;
     font-size: 150%;
     font-weight: bold;
+    background-color: rgba(60, 60, 60, 0.5);
 }
 
 #what-we-do {
-        line-height: 20px;
-        margin-bottom: 20px;
+        line-height: 25px;
+        margin-bottom: 30px;
+        margin-top: 60px;
         color: whitesmoke;
-        font-weight: 500;
         font-size: 100%;
         text-align: center;
-        justify-content: space-between;
+        justify-content: center;
         background-color: rgba(60, 60, 60, 0.5);
 }
 
 #to-do-list {
     list-style-type: none;
+    font-weight: 400;
 }
 
 /*Contact Section */
@@ -325,35 +337,36 @@ main {
     }
 
     /* Hero section */
-
     #hero {
-        height: 100vh;
+        min-height: 90vh;
     }
+
     #text-cover {
         width: 400px;
-        right: 50px;
-        min-height: 350px;
-        margin-bottom: 200px;
-        padding-top: 30;
+        margin-left: 350px;
+        min-height: 250px;
+        margin-bottom: 50px;
+        padding-top: 30px;
         line-height: 30px;
         font-size: 150%;
     }
 
-   /* Reasons section */
-   #reasons {
-    width: 100%;
-   }
-
-   #reasons h2, 
-   #reasons p {
+   /* Reason section */
+   #reason h2 {
     padding: 30px 0 10px 0;
     font-weight: bold;
-    font-size: 200%;
+    font-size: 250%;
+   }
+
+   #reason p {
+    padding: 30px 0 10px 0;
+    font-weight: bold;
+    font-size: 250%;
 }
 
    #what-we-do {
        line-height: 40px;
-       font-size: 200%;
+       font-size: 150%;
        font-weight: bold;
        display: flex;
        justify-content: center;
@@ -421,22 +434,51 @@ width: 100%;
         border-bottom: 2px solid black;
     }
 
+    /* Main content */
+    main {
+        /* Push main content down to accommodate larger header */
+        margin-top: 79px;
+    }
+
     /* Hero section */
     #hero {
-        height: 600px;
-        width: 80%;
+        height: 200vh;
+        width: 100%;
     }
 
     #text-cover {
         width: 400px;
         right: 100px;
-        min-height: 300px;
-        margin-bottom: 100px;
-        padding-top: 30;
+        min-height: 200px;
+        margin-bottom: 50px;
+        margin-top: 100px;
+        margin-left: 700px;
+        padding-top: 10px;
         padding-bottom: 10px;
-        line-height: 20px;
-        font-size: 100%;
+        line-height: 30px;
+        font-size: 150%;
     }
+
+    /* Reason section */
+   #reason h2 {
+    padding: 30px 0 10px 0;
+    font-weight: bold;
+    font-size: 250%;
+   }
+
+   #reason p {
+    padding: 30px 0 10px 0;
+    font-weight: bold;
+    font-size: 250%;
+}
+
+   #what-we-do {
+       line-height: 50px;
+       font-size: 200%;
+       font-weight: bold;
+       display: flex;
+       justify-content: center;
+   }
     
     /* Gallery Section */
     #photos {
