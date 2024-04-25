@@ -129,7 +129,7 @@ main {
 
 /* Reasons section */
 #reason {
-        width: 90%;
+        width: 40%;
         margin: 20px auto;
         justify-content: flex-end;
 }
