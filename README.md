@@ -36,7 +36,7 @@
   - It also contain the contact details of rose garden to enable users get in touch with rose garden for more clarification.
   - This section will be updated as these times change to keep the user up to date. 
 
-![Contact]()
+![Contact](documentation/contact-image.png)
 
 - __The Footer__ 
 
