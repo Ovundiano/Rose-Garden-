@@ -4,7 +4,7 @@
 
    Users of this website will be able to get informations on Rose Garden i.e, what we do, open times, get in touch, gallery and how to place an order.
 
-![Responsive Mockup]()
+![Responsive Mockup](documentation/responsive-image.webp)
 
 ## Features 
 
@@ -23,17 +23,12 @@
   - It shows the name and address of the garden in white text.
   - It provides the users with clear information of different colors of rose flowers and it's symbolic meaning.
   - It also tell the users what rose garden specializes on. 
+  - This section also contain the what we do section include an image of rose flower as the background with text overlay.
+  - This section gives details to users on what rose garden does: Vase collection, Funeral, New baby/Baby shower, Birthday, Gift Sets and Sympathy arrangement. 
   - This section introduces the user to Rose Garden with an eye catching animation to grab their attention.
+  - This should also encourage users to consider placing an order for rose flowers. 
 
 ![Hero section]()
-
-- __What We Do?__
-
-  - What we do section include an image of rose flower as the background with text overlay.
-  - This section gives details to users on what rose garden does: Vase collection, Funeral, New baby/Baby shower, Birthday, Gift Sets and Sympathy arrangement. 
-  - This should encourage users to consider placing an order for rose flowers. 
-
-![What we do?](documentation/what-we-do.png)
 
 - __Contact__
 
