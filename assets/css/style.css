@@ -16,7 +16,7 @@ body {
     display: flex;
     flex-direction: column;
     /* Generic project styles */
-    color: black;
+    color: whitesmoke;
     font-family: 'Lato', sans-serif;
 }
 
