@@ -53,14 +53,19 @@
 ![Gallery](documentation/gallery-image.png)
 
 - __The Order Page__
-
+  - This page has a rose flower as the background.
   - This section has a form to collect details from the users to help them place orders.
-  - The form collects the users name, email address and pick up means.
+  - The form collects the users name, email address, pick up means and submit button.
+  - This enable users to place an order after viewing the web page.
 
 ![Order page](documentation/order-image.png)
 
   __The Response Page__
+  - This page has a rose flower as the background.
+  - It is the feedback a user get after filling the order form to place an order.
+  - It gives users the knowledge that there orders has been received and will be processed.
 
+  ![Response page](documentation/response-image.png)
   
 ## Testing 
 
