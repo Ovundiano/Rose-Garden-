@@ -50,7 +50,7 @@
   - The gallery contains images of rose flowers in different colors.
   - This section gives users the room to make choices of the colors of rose flowers they want.
 
-![Gallery]()
+![Gallery](documentation/gallery-image.png)
 
 - __The Order Page__
 
