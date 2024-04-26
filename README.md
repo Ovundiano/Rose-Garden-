@@ -28,7 +28,7 @@
   - This section introduces the user to Rose Garden with an eye catching animation to grab their attention.
   - This should also encourage users to consider placing an order for rose flowers. 
 
-![Hero section]()
+![Hero section](documentation/hero-image.webp)
 
 - __Contact__
 
