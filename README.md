@@ -57,7 +57,7 @@
   - This section has a form to collect details from the users to help them place orders.
   - The form collects the users name, email address and pick up means.
 
-![Order page]()
+![Order page](documentation/order-image.png)
 
   __The Response Page__
 
