@@ -43,7 +43,7 @@
   - The footer section contains social media icon links to enable the users find us on facebook, instagram and youtube.
   - The footer is important to users because it gives them the ability to find us on social media.
 
-![Footer]()
+![Footer](documentation/footer-image.png)
 
 - __Gallery Page__
 
