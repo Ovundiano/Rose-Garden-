@@ -86,7 +86,14 @@
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fovundiano.github.io%2FRose-Garden-%2F)
 - CSS
-  - No errors were returned when passing through the official [W3C CSS validator(Jigsaw)](https://validator.w3.org/nu/showsource=yes&ovundiano-rosegarden-jigsaw-validator.html)
+  - No errors were returned when passing through the official W3C CSS Validator (Jigsaw).
+
+  ![Jigsaw CSS Validator]()
+
+- Acessibility
+  - I confirm that the colors and fonts chosen are easy to read and accessible by running it through the Lighthouse in devtools.
+
+  ![Accessibility validator](documentation/accessibility-validator.webp)
 
 #### Unfixed Bugs
 
