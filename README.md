@@ -141,10 +141,12 @@ The live link can be found [here](https://ovundiano.github.io/Rose-Garden-/)
 - [CSS Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) - was used to arrange items simmetrically on the pages.
 - [Gitpod](https://www.gitpod.io/) was used as the main tool to write and edit code.
 - [GitHub](https://github.com/) was used to host the code of the website.
+- [Git](https://git-scm.com/) was used for the version control of the website.
 
 ## Acknowledgment
 
 - Divine Mazi, My wife was a great support system towards the realization of this project.
-- Code Instutide tutors and slack community members contributed immensely towards this project.
-- Iuliia Konovalova, was a great mentor and was very supportive towards making this project see the light of the day.
-- Code Institude Love Running Project.
+- [Iuliia Konovalova](https://github.com/IuliiaKonovalova) was a great mentor and was very supportive towards making this project see the light of the day.
+- [Code Institute](https://codeinstitute.net/) tutors and Slack community members for their support and help.
+- [Kevin Powell](https://www.youtube.com/user/KepowOb) for his amazing CSS tutorials.
+- [Love Running](https://codeinstitute.net/) tutors and Slack community members for their support and help.
