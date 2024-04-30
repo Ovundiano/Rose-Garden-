@@ -123,13 +123,14 @@ The live link can be found [here](https://ovundiano.github.io/Rose-Garden-/)
 
 - All images gotten from [Amazon.com](https://www.amazon.co.uk/roses-flowers/s?k=roses+flowers)
 - All images resized with [Tinypng](https://tinypng.com/)
+- Images merged with [Pinetools](https://pinetools.com/merge-images)
 
 ## Technologies Used
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) was used as the foundation of the site.
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/css) - was used to add the styles and layout of the site.
 - [CSS Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) - was used to arrange items simmetrically on the pages.
-- [VSCode](https://code.visualstudio.com/) was used as the main tool to write and edit code.
+- [Gitpod](https://www.gitpod.io/) was used as the main tool to write and edit code.
 - [GitHub](https://github.com/) was used to host the code of the website.
 
 ## Acknowledgment
