@@ -109,6 +109,10 @@ No unfixed bugs.
 
 The live link can be found [here](https://ovundiano.github.io/Rose-Garden-/)
 
+## Future improvements
+- Add favicon with [Favicon Generator. For real.](https://realfavicongenerator.net/);
+- Add custom 404 page;
+- Improve the quality of the commit messages (I am aware that some of them are not very clear and not meeting the standards and will improve them in the future);
 
 ## Credits  
 
