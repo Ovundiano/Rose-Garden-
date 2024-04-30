@@ -133,8 +133,6 @@ The live link can be found [here](https://ovundiano.github.io/Rose-Garden-/)
 #### Media
 
 - All images gotten from [Amazon.com](https://www.amazon.co.uk/roses-flowers/s?k=roses+flowers)
-- All images resized with [Tinypng](https://tinypng.com/)
-- Images merged with [Pinetools](https://pinetools.com/merge-images)
 
 ## Technologies Used
 
@@ -144,6 +142,8 @@ The live link can be found [here](https://ovundiano.github.io/Rose-Garden-/)
 - [Gitpod](https://www.gitpod.io/) was used as the main tool to write and edit code.
 - [GitHub](https://github.com/) was used to host the code of the website.
 - [Git](https://git-scm.com/) was used for the version control of the website.
+- [Tinypng](https://tinypng.com/) was used for resizing images.
+- [Pinetools](https://pinetools.com/merge-images) was used for merging images.
 
 ## Acknowledgment
 
