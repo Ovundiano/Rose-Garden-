@@ -126,10 +126,10 @@ The live link can be found [here](https://ovundiano.github.io/Rose-Garden-/)
 
 ## Technologies Used
 
--HTML
--CSS
--GitHub
--Gitpod
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) was used as the foundation of the site.
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/css) - was used to add the styles and layout of the site.
+- GitHub
+- Gitpod
 
 ## Acknowledgment
 
