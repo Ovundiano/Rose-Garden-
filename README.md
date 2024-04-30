@@ -4,6 +4,8 @@
 
    Users of this website will be able to get informations on Rose Garden i.e, what we do, open times, get in touch, gallery and how to place an order.
 
+   The site can be accessed by this [link](https://ovundiano.github.io/Rose-Garden-/)
+
 ![Responsive Mockup](documentation/responsive-image.webp)
 
 ## Features 
