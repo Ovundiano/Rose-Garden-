@@ -1,6 +1,6 @@
 /* Google fonts import */
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,700&display=swap') ;
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100&display=swap') ;
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100&display=swap');
 
 
 /* Asterisk wildcard selector to override default styles added by the browser */
@@ -20,7 +20,9 @@ body {
     font-family: 'Lato', sans-serif;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
     font-family: "Lato", sans-serif;
     font-weight: 700;
     font-style: italic;
@@ -102,11 +104,11 @@ main {
 
 /* Hero section */
 #hero {
-        min-height: 80vh;
-        width: 100%;
-        /* Image gotten from Amazon.com */
-        background: url("../images/hero-image.jpeg") no-repeat center center/cover;
-        position: relative;
+    min-height: 80vh;
+    width: 100%;
+    /* Image gotten from Amazon.com */
+    background: url("../images/hero-image.jpeg") no-repeat center center/cover;
+    position: relative;
 }
 
 #text-cover {
@@ -129,9 +131,9 @@ main {
 
 /* Reasons section */
 #reason {
-        width: 40%;
-        margin: 20px auto;
-        justify-content: flex-end;
+    width: 40%;
+    margin: 20px auto;
+    justify-content: flex-end;
 }
 
 #reason h2 {
@@ -152,14 +154,14 @@ main {
 }
 
 #what-we-do {
-        line-height: 25px;
-        margin-bottom: 30px;
-        margin-top: 60px;
-        color: whitesmoke;
-        font-size: 100%;
-        text-align: center;
-        justify-content: center;
-        background-color: rgba(60, 60, 60, 0.5);
+    line-height: 25px;
+    margin-bottom: 30px;
+    margin-top: 60px;
+    color: whitesmoke;
+    font-size: 100%;
+    text-align: center;
+    justify-content: center;
+    background-color: rgba(60, 60, 60, 0.5);
 }
 
 #to-do-list {
@@ -169,21 +171,21 @@ main {
 
 /*Contact Section */
 #contact {
-        margin-bottom: 5px;
-    }
+    margin-bottom: 5px;
+}
 
-    #contact-boxes-container {
-        margin-top: 10px;
-        margin-bottom: 10px;
-    }
+#contact-boxes-container {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
 
-    #contact-boxes-container div {
-        text-align: center;
-    }
+#contact-boxes-container div {
+    text-align: center;
+}
 
-    .time {
-        padding-left: 50px;
-    }
+.time {
+    padding-left: 50px;
+}
 
 /* Gallery page */
 #photos img {
@@ -252,7 +254,7 @@ main {
 /* Response Page */
 #response {
     /* Image gotten from Amazon */
-    background-image:url("../images/rose-8.webp");
+    background-image: url("../images/rose-8.webp");
     width: 100%;
     height: 100vh;
     background-size: cover;
@@ -261,15 +263,15 @@ main {
 }
 
 .response_text {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  margin-top: 200px;
-  margin-right: 15px;
-  margin-left: 15px;
-  background-color: rgba(60, 60, 60, 0.6);
-  color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+    margin-right: 15px;
+    margin-left: 15px;
+    background-color: rgba(60, 60, 60, 0.6);
+    color: whitesmoke;
 }
 
 .response_text h2 {
@@ -278,18 +280,18 @@ main {
     text-transform: uppercase;
     letter-spacing: 0.1rem;
     text-align: center;
-    margin-top: 50px; 
+    margin-top: 50px;
     margin-bottom: 50px;
 }
 
 .response_text p {
-  font-size: 150%;
-  font-weight: bold;
-  text-transform: uppercase;
-  letter-spacing: 0.1rem;
-  text-align: center;
-  margin-top: 50px; 
-  margin-bottom: 50px;
+    font-size: 150%;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 /* Footer */
@@ -317,14 +319,15 @@ main {
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
 
-     /* Header */
-     nav {
+    /* Header */
+    nav {
         display: block;
         position: relative;
         box-shadow: none;
         width: fit-content;
         padding-right: 1rem;
     }
+
     #bar {
         display: flex;
     }
@@ -333,11 +336,11 @@ main {
         padding-left: 1rem;
         font-size: 200%;
         font-weight: bold;
-    }   
+    }
 
     .nav-toggle-label {
         display: none;
-    } 
+    }
 
     #logo {
         font-size: 400%;
@@ -345,8 +348,8 @@ main {
         margin: 0 0.5rem;
     }
 
-     /* Main content */
-     main {
+    /* Main content */
+    main {
         /* Push main content down to accommodate larger header */
         margin-top: 79px;
     }
@@ -366,81 +369,81 @@ main {
         font-size: 150%;
     }
 
-   /* Reason section */
-   #reason h2 {
-    padding: 30px 0 10px 0;
-    font-weight: bold;
-    font-size: 250%;
-   }
+    /* Reason section */
+    #reason h2 {
+        padding: 30px 0 10px 0;
+        font-weight: bold;
+        font-size: 250%;
+    }
 
-   #reason p {
-    padding: 30px 0 10px 0;
-    font-weight: bold;
-    font-size: 250%;
-}
+    #reason p {
+        padding: 30px 0 10px 0;
+        font-weight: bold;
+        font-size: 250%;
+    }
 
-   #what-we-do {
-       line-height: 40px;
-       font-size: 150%;
-       font-weight: bold;
-       display: flex;
-       justify-content: center;
-   }
+    #what-we-do {
+        line-height: 40px;
+        font-size: 150%;
+        font-weight: bold;
+        display: flex;
+        justify-content: center;
+    }
 
-   /* Contact Section */
-   #contact-boxes-container {
-    width: 100%;
-    display: flex;
-    justify-content: space-evenly;
-}
+    /* Contact Section */
+    #contact-boxes-container {
+        width: 100%;
+        display: flex;
+        justify-content: space-evenly;
+    }
 
-/* Gallery Section */
-#photos {
-    column-count: 2;
-}
+    /* Gallery Section */
+    #photos {
+        column-count: 2;
+    }
 
-/* Order Section */
-#order {
-background-position: center;
-}
+    /* Order Section */
+    #order {
+        background-position: center;
+    }
 
-#order-form {
-max-width: 400px;
-position: relative;
-left: 15%;
-top: 100px;
-}
+    #order-form {
+        max-width: 400px;
+        position: relative;
+        left: 15%;
+        top: 100px;
+    }
 
-.text-input:hover {
-border-color: #f16c6b;
-}
+    .text-input:hover {
+        border-color: #f16c6b;
+    }
 
-.join-button:hover {
-background-color: #fafafa;
-color: #454b1b;
-}
+    .join-button:hover {
+        background-color: #fafafa;
+        color: #454b1b;
+    }
 
-/* Response */
-#response {
-width: 100%;
-}
+    /* Response */
+    #response {
+        width: 100%;
+    }
 
-.response_text {
-    min-width: 300px;
-    margin-bottom: 200px;
-    margin-left: 20px;
-    margin-top: 300px;
-    margin-right: 60px;
-}
+    .response_text {
+        min-width: 300px;
+        margin-bottom: 200px;
+        margin-left: 20px;
+        margin-top: 300px;
+        margin-right: 60px;
+    }
 
-.response_text p {
-    font-size: 200%;
-}
+    .response_text p {
+        font-size: 200%;
+    }
 
-/* Footer */
-   #social-networks i {
-       font-size: 200%;
-   }
+    /* Footer */
+    #social-networks i {
+        font-size: 200%;
+    }
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
@@ -475,26 +478,26 @@ width: 100%;
     }
 
     /* Reason section */
-   #reason h2 {
-    padding: 30px 0 10px 0;
-    font-weight: bold;
-    font-size: 250%;
-   }
+    #reason h2 {
+        padding: 30px 0 10px 0;
+        font-weight: bold;
+        font-size: 250%;
+    }
 
-   #reason p {
-    padding: 30px 0 10px 0;
-    font-weight: bold;
-    font-size: 250%;
-}
+    #reason p {
+        padding: 30px 0 10px 0;
+        font-weight: bold;
+        font-size: 250%;
+    }
 
-   #what-we-do {
-       line-height: 50px;
-       font-size: 200%;
-       font-weight: bold;
-       display: flex;
-       justify-content: center;
-   }
-    
+    #what-we-do {
+        line-height: 50px;
+        font-size: 200%;
+        font-weight: bold;
+        display: flex;
+        justify-content: center;
+    }
+
     /* Gallery Section */
     #photos {
         column-count: 3;
@@ -504,11 +507,11 @@ width: 100%;
     #order-form {
         margin: 0 1rem 5rem 7rem;
     }
-    
+
     .text-input:hover {
         border-color: #f16c6b;
     }
-    
+
     .join-button:hover {
         background-color: #fafafa;
         color: #454b1b;
@@ -527,4 +530,3 @@ width: 100%;
         margin-right: 200px;
     }
 }
-
