@@ -79,10 +79,14 @@
 
 - I confirm that the form works requires entry in every field, will only accept an email in the email field and the submit button works.
 
-#### Validator Testing 
+## Validator testing
 
-- HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fovundiano.github.io%2FRose-Garden-%2F)
++ ### HTML
+
+  #### Home Page
+    - No errors or warnings were found when passing through the official W3C validator.
+
+    ![Home Page HTML Validator](documentation/w3-vallidator-homepage.png)
 - CSS
   - No errors were returned when passing through the official W3C CSS Validator (Jigsaw).
 
