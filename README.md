@@ -248,3 +248,8 @@
  - [Code Institute](https://codeinstitute.net/) tutors and Slack community members for their support and help.
  - [Kevin Powell](https://www.youtube.com/user/KepowOb) for his amazing CSS tutorials.
  - [Love Running](https://codeinstitute.net/) tutors and Slack community members for their support and help.
+
+
+## Note
+
+ - Background image of home in larger screen sizes quality is low because it was zoomed by the device to fit in the device screen size. I dont want to change it because I love the uniqueness of the image.
