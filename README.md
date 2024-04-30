@@ -87,7 +87,24 @@
     - No errors or warnings were found when passing through the official W3C validator.
 
     ![Home Page HTML Validator](documentation/w3-vallidator-homepage.png)
-- CSS
+
+    #### Gallery Page
+    - No errors or warnings were found when passing through the official W3C validator.
+
+    ![Gallery Page HTML Validator](documentation/w3-vallidator-gallery.html.png)
+
+  #### Order Page
+    - No errors or warnings were found when passing through the official W3C validator.
+
+    ![Order Page HTML Validator]()
+
+  #### Response Page
+    - No errors or warnings were found when passing through the official W3C validator.
+
+    ![Response Page HTML Validator](documentation/w3_validator_response_page.png)
+    
++ ### CSS
+
   - No errors were returned when passing through the official W3C CSS Validator (Jigsaw).
 
   ![Jigsaw CSS Validator](documentation/css-validator-image.png)
