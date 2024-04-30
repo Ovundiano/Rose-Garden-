@@ -71,13 +71,15 @@
   
 ## Testing 
 
-- I tested that this page works in different browsers: Chrome and Firefox.
-  
-- I confirmed that this page is responsive, looks good and functions on all standard screen sizes using the devtools device tool bar.
+## Compatibility
 
-- I confirm that the navigation, Home Gallery and Order are all readable and easy to understand.
+- In order to confirm the correct functionality, responsiveness, and appearance:
 
-- I confirm that the form works requires entry in every field, will only accept an email in the email field and the submit button works.
++ The website was tested on the following browsers: Chrome, Firefox and Microsoft Edge.
+
+## Responsiveness
+
++ The website was checked by devtools implemented in Microsoft Edge, Firefox and Chrome browsers.
 
 ## Manual testing
 
