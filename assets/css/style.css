@@ -279,7 +279,7 @@ main {
 }
 
 /* Footer */
-#social-networks {
+.social-networks {
     text-align: center;
     padding: 20px 0;
     display: flex;
@@ -288,13 +288,13 @@ main {
     background-color: rgba(0, 0, 0, 0.9);
 }
 
-#social-networks i {
+.social-networks i {
     font-size: 200%;
     padding: 5%;
     color: whitesmoke;
 }
 
-#network i:hover {
+#icon i:hover {
     color: red;
 }
 
