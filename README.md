@@ -81,12 +81,16 @@
 
 ### Bugs
 
-- Solved bugs
+ ### Solved bugs
     1.  There was duplicate ID of networks in the footer section of all three pages.
     
         *Solution:* I changed the ID of social-networks in the unordered list to class and added an ID of icon.
 
 ![Bug](documentation/bug-image.png)
+
+#### Unfixed Bugs
+
+None.
 
 #### Validator Testing 
 
@@ -101,10 +105,6 @@
   - I confirm that the colors and fonts chosen are easy to read and accessible by running it through the Lighthouse in devtools.
 
   ![Accessibility validator](documentation/accessibility-validator.webp)
-
-#### Unfixed Bugs
-
-None.
 
 ## Deployment
 
