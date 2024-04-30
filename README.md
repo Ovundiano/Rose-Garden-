@@ -132,9 +132,10 @@
  ## Bugs
 
  ### Solved bugs
-   1.  There was duplicate ID of networks in the footer section of all three pages of html.
+   1. There was duplicate ID of networks in the footer section of all three pages of html.
     
-    -Solution: I changed the ID of social-networks in the unordered list to class and added an ID of icon.
+    - Solution: I changed the ID of social-networks in the unordered list to class and added an ID of icon.
+
 
 ![Bug](documentation/bug-image.png)
 
