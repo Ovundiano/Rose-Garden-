@@ -126,8 +126,8 @@ The live link can be found [here](https://ovundiano.github.io/Rose-Garden-/)
 
 ### Content 
 
-- What we do section was gotten from [Flowers.IE](https://flowers.ie/collections/rose-arrangements)
-- Meaning of Rose colors was gotten from [Surprose.com](https://www.surprose.com/blog/meaning-of-rose-colours#:~:text=For%20example%2C%20blue%20roses%20symbolise,fresh%20start%20or%20a%20farewell.)
+- Inspiration for the what we do section came from [Flowers.IE](https://flowers.ie/collections/rose-arrangements)
+- The meaning of different Rose colors was gotten from [Surprose.com](https://www.surprose.com/blog/meaning-of-rose-colours#:~:text=For%20example%2C%20blue%20roses%20symbolise,fresh%20start%20or%20a%20farewell.)
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 - The Lato font was gotten from [Google Font](https://fonts.google.com/)
 
