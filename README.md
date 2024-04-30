@@ -79,7 +79,10 @@
 
 ### Bugs
 
-- No bugs detected.
+- Solved bugs
+    1.  There was duplicate ID of networks in the footer section of all three pages.
+    
+        *Solution:* I changed the ID of social-networks in the unordered list to class and added an ID of icon.
 
 #### Validator Testing 
 
@@ -97,7 +100,7 @@
 
 #### Unfixed Bugs
 
-No unfixed bugs.
+None.
 
 ## Deployment
 
