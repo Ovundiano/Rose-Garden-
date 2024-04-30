@@ -62,7 +62,7 @@
 
 ![Order page](documentation/order-image.png)
 
-  __The Response Page__
+- __The Response Page__
   - This page has a rose flower as the background.
   - It is the feedback a user get after filling the order form to place an order.
   - It gives users the knowledge that there orders has been received and will be processed.
