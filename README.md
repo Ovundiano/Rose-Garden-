@@ -82,6 +82,7 @@
 ## Validator testing
 
 + ### HTML
+    - Initially, three errors were found in the footer section of all the HTML pages, which has been rectified and has no error currently. Errors are detailed in the Bug section.
 
   #### Home Page
     - No errors or warnings were found when passing through the official W3C validator.
@@ -101,7 +102,7 @@
   #### Response Page
     - No errors or warnings were found when passing through the official W3C validator.
 
-    ![Response Page HTML Validator](documentation/w3_validator_response_page.png)
+    ![Response Page HTML Validator](documentation/w3-vallidator-response.html.png)
     
 + ### CSS
 
@@ -131,7 +132,7 @@
  ## Bugs
 
  ### Solved bugs
-    1.  There was duplicate ID of networks in the footer section of all three pages.
+    1.  There was duplicate ID of networks in the footer section of all three pages of html.
     
         *Solution:* I changed the ID of social-networks in the unordered list to class and added an ID of icon.
 
