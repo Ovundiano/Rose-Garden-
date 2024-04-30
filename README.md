@@ -71,17 +71,15 @@
   
 ## Testing 
 
-## Compatibility
+### Compatibility
 
-- In order to confirm the correct functionality, responsiveness, and appearance:
+- In order to confirm the correct functionality and appearance across devices, the website was tested on the following browsers: Chrome, Firefox and Microsoft Edge.
 
-+ The website was tested on the following browsers: Chrome, Firefox and Microsoft Edge.
+### Responsiveness
 
-## Responsiveness
+- In order to confirm the responsiveness across devices, the website was checked by devtools implemented in Microsoft Edge, Firefox and Chrome browsers.
 
-+ The website was checked by devtools implemented in Microsoft Edge, Firefox and Chrome browsers.
-
-## Manual testing
+### Manual testing
 
 | feature | action | expected result | tested | passed | comments |
 | --- | --- | --- | --- | --- | --- |
@@ -110,7 +108,7 @@
 
     ![Home Page HTML Validator](documentation/w3-vallidator-homepage.png)
 
-    #### Gallery Page
+  #### Gallery Page
     - No errors or warnings were found when passing through the official W3C validator.
 
     ![Gallery Page HTML Validator](documentation/w3-vallidator-gallery.html.png)
@@ -138,7 +136,7 @@
 
   ![Home Page Lighthouse](documentation/home-lighthouse.webp)
 
-   ### Gallery page
+  ### Gallery page
 
   ![Gallery Page Lighthouse](documentation/gallery-lighthouse.png)
 
@@ -152,17 +150,16 @@
 
  ## Bugs
 
- ### Solved bugs
+  ### Solved bugs
    1. There was duplicate ID of networks in the footer section of all three pages of html.
     
     *Solution:* I changed the ID of social-networks in the unordered list to class and added an ID of icon.
 
+  ![Bug](documentation/bug-image.png)
 
-![Bug](documentation/bug-image.png)
+  #### Unfixed Bugs
 
-#### Unfixed Bugs
-
-None.
+  - None.
 
 ## Deployment
 
@@ -176,7 +173,7 @@ None.
 
 The live link can be found [here](https://ovundiano.github.io/Rose-Garden-/)
 
-#### Local Deployment
+### Local Deployment
 
 In order to make a local copy of this project, you can clone it.
 In your IDE Terminal, type the following command to clone my repository:
@@ -200,7 +197,7 @@ In your IDE Terminal, type the following command to clone my repository:
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 - The Lato font was gotten from [Google Font](https://fonts.google.com/)
 
-#### Media
+### Media
 
 - All images gotten from [Amazon.com](https://www.amazon.co.uk/roses-flowers/s?k=roses+flowers)
 
@@ -213,7 +210,8 @@ In your IDE Terminal, type the following command to clone my repository:
 - [GitHub](https://github.com/) was used to host the code of the website.
 - [Git](https://git-scm.com/) was used for the version control of the website.
 - [Tinypng](https://tinypng.com/) was used for resizing images.
-- [Pinetools](https://pinetools.com/merge-images) was used for merging images.
+- [GitHub Pages](https://github.com/Ovundiano/Rose-Garden-/deployments/github-pages) was used for the deployment of the webpage.
+- [PineTools](https://pinetools.com/merge-images) was used to merge images.
 
 ## Acknowledgment
 
