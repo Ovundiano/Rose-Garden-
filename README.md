@@ -101,7 +101,7 @@
 
   ### Order page
 
-  ![Order Page Lighthouse]()
+  ![Order Page Lighthouse](documentation/order-ligthhouse.png)
 
   ### Response page
 
