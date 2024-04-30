@@ -105,7 +105,7 @@
 
   ### Response page
 
-  ![Response Page Lighthouse](documentation/lighthouse_response_page.png)
+  ![Response Page Lighthouse](documentation/response-ligthhouse.png)
 
  ## Bugs
 
