@@ -68,18 +68,46 @@
   - It gives users the knowledge that there orders has been received and will be processed.
 
   ![Response page](documentation/response-image.png)
+
+## Design
+
+ ### Color Scheme
+
+ ![Color pallet](documentation/color-pallet.png)
+
+ - Black color was used as background color for footer and text color for content of header.
+
+ - White color was also used as background color and text color for main.
+
+ - Jet color was used as background color for order form to make it visible for users.
+
+  - Battleship gray color was used as background color and response to text visible for users.
+
+  - Drab dark brown color was used as background color for submit button.
+
+  - Red color was used as hover color for footer and form.
+
+ ### Typography
+
+ ![Main Font](documentation/main-font.png)
+
+ - Lato Google Font was used as the main font of the website in order to increase readability of the content on the pages.
+
+ ![Title Font](documentation/title-font.png)
+
+ - Lato Google Font 700 Bold Italic was used as the title font of the website
   
 ## Testing 
 
-### Compatibility
+ ### Compatibility
 
-- In order to confirm the correct functionality and appearance across devices, the website was tested on the following browsers: Chrome, Firefox and Microsoft Edge.
+ - In order to confirm the correct functionality and appearance across devices, the website was tested on the following browsers: Chrome, Firefox and Microsoft Edge.
 
-### Responsiveness
+ ### Responsiveness
 
-- In order to confirm the responsiveness across devices, the website was checked by devtools implemented in Microsoft Edge, Firefox and Chrome browsers.
+ - In order to confirm the responsiveness across devices, the website was checked by devtools implemented in Microsoft Edge, Firefox and Chrome browsers.
 
-### Manual testing
+ ### Manual testing
 
 | feature | action | expected result | tested | passed | comments |
 | --- | --- | --- | --- | --- | --- |
@@ -129,7 +157,7 @@
 
   ![Jigsaw CSS Validator](documentation/css-validator-image.png)
 
- ## LightHouse report
+## LightHouse report
  - Using lighthouse in devtools I confirmed that the website is performing well, accessible and colors and fonts chosen are readable.
     
   ### Home page
@@ -148,7 +176,7 @@
 
   ![Response Page Lighthouse](documentation/response-ligthhouse.png)
 
- ## Bugs
+## Bugs
 
   ### Solved bugs
    1. There was duplicate ID of networks in the footer section of all three pages of html.
@@ -163,7 +191,7 @@
 
 ## Deployment
 
-### Deployment to GitHub Pages
+ ### Deployment to GitHub Pages
 
   - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab.
@@ -171,52 +199,52 @@
   - In the pages, from the source drop down menu, select the main branch, then click save.
   - Once saved, the link will be created to the website. 
 
-The live link can be found [here](https://ovundiano.github.io/Rose-Garden-/)
+ The live link can be found [here](https://ovundiano.github.io/Rose-Garden-/)
 
-### Local Deployment
+ ### Local Deployment
 
-In order to make a local copy of this project, you can clone it.
-In your IDE Terminal, type the following command to clone my repository:
+  - In order to make a local copy of this project, you can clone it.
+  - In your IDE Terminal, type the following command to clone my repository:
 
-- `git clone https://github.com/Ovundiano/Rose-Garden-.git`
+ - `git clone https://github.com/Ovundiano/Rose-Garden-.git`
 
-- Alternatively, if you use Gitpod, you can [click here](https://gitpod.io/#https://github.com/vundiano/Rose-Garden-), which will start the Gitpod workspace for you.
+ - Alternatively, if you use Gitpod, you can [click here](https://gitpod.io/#https://github.com/vundiano/Rose-Garden-), which will start the Gitpod workspace for you.
 
 ## Future improvements
-- Add favicon with [Favicon Generator. For real.](https://realfavicongenerator.net/);
-- Add custom 404 page;
-- Improve the quality of the commit messages (I am aware that some of them are not very clear and not meeting the standards and will improve them in the future);
-- Add accessability report with [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/);
+ - Add favicon with [Favicon Generator. For real.](https://realfavicongenerator.net/);
+ - Add custom 404 page;
+ - Improve the quality of the commit messages (I am aware that some of them are not very clear and not meeting the standards and will improve them in the future);
+ - Add accessability report with [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/);
 
 ## Credits  
 
 ### Content 
 
-- Inspiration for the what we do section came from [Flowers.IE](https://flowers.ie/collections/rose-arrangements)
-- The meaning of different Rose colors was gotten from [Surprose.com](https://www.surprose.com/blog/meaning-of-rose-colours#:~:text=For%20example%2C%20blue%20roses%20symbolise,fresh%20start%20or%20a%20farewell.)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
-- The Lato font was gotten from [Google Font](https://fonts.google.com/)
+ - Inspiration for the what we do section came from [Flowers.IE](https://flowers.ie/collections/rose-arrangements)
+ - The meaning of different Rose colors was gotten from [Surprose.com](https://www.surprose.com/blog/meaning-of-rose-colours#:~:text=For%20example%2C%20blue%20roses%20symbolise,fresh%20start%20or%20a%20farewell.)
+ - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+ - The Lato font was gotten from [Google Font](https://fonts.google.com/)
 
-### Media
+ ### Media
 
-- All images gotten from [Amazon.com](https://www.amazon.co.uk/roses-flowers/s?k=roses+flowers)
+ - All images gotten from [Amazon.com](https://www.amazon.co.uk/roses-flowers/s?k=roses+flowers)
 
 ## Technologies Used
 
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) was used as the foundation of the site.
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/css) - was used to add the styles and layout of the site.
-- [CSS Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) - was used to arrange items simmetrically on the pages.
-- [Gitpod](https://www.gitpod.io/) was used as the main tool to write and edit code.
-- [GitHub](https://github.com/) was used to host the code of the website.
-- [Git](https://git-scm.com/) was used for the version control of the website.
-- [Tinypng](https://tinypng.com/) was used for resizing images.
-- [GitHub Pages](https://github.com/Ovundiano/Rose-Garden-/deployments/github-pages) was used for the deployment of the webpage.
-- [PineTools](https://pinetools.com/merge-images) was used to merge images.
+ - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) was used as the foundation of the site.
+ - [CSS](https://developer.mozilla.org/en-US/docs/Web/css) - was used to add the styles and layout of the site.
+ - [CSS Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) - was used to arrange items simmetrically on the pages.
+ - [Gitpod](https://www.gitpod.io/) was used as the main tool to write and edit code.
+ - [GitHub](https://github.com/) was used to host the code of the website.
+ - [Git](https://git-scm.com/) was used for the version control of the website.
+ - [Tinypng](https://tinypng.com/) was used for resizing images.
+ - [GitHub Pages](https://github.com/Ovundiano/Rose-Garden-/deployments/github-pages) was used for the deployment of the webpage.
+ - [PineTools](https://pinetools.com/merge-images) was used to merge images.
 
 ## Acknowledgment
 
-- Divine Mazi, My wife was a great support system towards the realization of this project.
-- [Iuliia Konovalova](https://github.com/IuliiaKonovalova) was a great mentor and was very supportive towards making this project see the light of the day.
-- [Code Institute](https://codeinstitute.net/) tutors and Slack community members for their support and help.
-- [Kevin Powell](https://www.youtube.com/user/KepowOb) for his amazing CSS tutorials.
-- [Love Running](https://codeinstitute.net/) tutors and Slack community members for their support and help.
+ - Divine Mazi, My wife was a great support system towards the realization of this project.
+ - [Iuliia Konovalova](https://github.com/IuliiaKonovalova) was a great mentor and was very supportive towards making this project see the light of the day.
+ - [Code Institute](https://codeinstitute.net/) tutors and Slack community members for their support and help.
+ - [Kevin Powell](https://www.youtube.com/user/KepowOb) for his amazing CSS tutorials.
+ - [Love Running](https://codeinstitute.net/) tutors and Slack community members for their support and help.

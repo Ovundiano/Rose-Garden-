@@ -415,7 +415,7 @@ main {
     }
 
     .text-input:hover {
-        border-color: #f16c6b;
+        border-color: red;
     }
 
     .join-button:hover {
@@ -509,7 +509,7 @@ main {
     }
 
     .text-input:hover {
-        border-color: #f16c6b;
+        border-color: red;
     }
 
     .join-button:hover {
