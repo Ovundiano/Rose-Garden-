@@ -271,6 +271,17 @@ main {
   background-color: rgba(60, 60, 60, 0.6);
   color: whitesmoke;
 }
+
+.response_text h2 {
+    font-size: 200%;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+    text-align: center;
+    margin-top: 50px; 
+    margin-bottom: 50px;
+}
+
 .response_text p {
   font-size: 150%;
   font-weight: bold;

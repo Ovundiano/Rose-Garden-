@@ -93,7 +93,7 @@
 - CSS
   - No errors were returned when passing through the official W3C CSS Validator (Jigsaw).
 
-  ![Jigsaw CSS Validator]()
+  ![Jigsaw CSS Validator](documentation/css-validator-image.png)
 
 - Acessibility
   - I confirm that the colors and fonts chosen are easy to read and accessible by running it through the Lighthouse in devtools.
