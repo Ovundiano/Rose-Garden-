@@ -79,7 +79,35 @@
 
 - I confirm that the form works requires entry in every field, will only accept an email in the email field and the submit button works.
 
-### Bugs
+#### Validator Testing 
+
+- HTML
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fovundiano.github.io%2FRose-Garden-%2F)
+- CSS
+  - No errors were returned when passing through the official W3C CSS Validator (Jigsaw).
+
+  ![Jigsaw CSS Validator](documentation/css-validator-image.png)
+
+ ## LightHouse report
+ - Using lighthouse in devtools I confirmed that the website is performing well, accessible and colors and fonts chosen are readable.
+    
+  ### Home page
+
+  ![Home Page Lighthouse](documentation/home-lighthouse.webp)
+
+   ### Gallery page
+
+  ![Gallery Page Lighthouse](documentation/gallery-lighthouse.png)
+
+  ### Order page
+
+  ![Order Page Lighthouse]()
+
+  ### Response page
+
+  ![Response Page Lighthouse](documentation/lighthouse_response_page.png)
+
+ ## Bugs
 
  ### Solved bugs
     1.  There was duplicate ID of networks in the footer section of all three pages.
@@ -91,20 +119,6 @@
 #### Unfixed Bugs
 
 None.
-
-#### Validator Testing 
-
-- HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fovundiano.github.io%2FRose-Garden-%2F)
-- CSS
-  - No errors were returned when passing through the official W3C CSS Validator (Jigsaw).
-
-  ![Jigsaw CSS Validator](documentation/css-validator-image.png)
-
-- Acessibility
-  - I confirm that the colors and fonts chosen are easy to read and accessible by running it through the Lighthouse in devtools.
-
-  ![Accessibility validator](documentation/accessibility-validator.webp)
 
 ## Deployment
 
