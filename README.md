@@ -84,6 +84,8 @@
     
         *Solution:* I changed the ID of social-networks in the unordered list to class and added an ID of icon.
 
+![Bug](documentation/bug-image.png)
+
 #### Validator Testing 
 
 - HTML
