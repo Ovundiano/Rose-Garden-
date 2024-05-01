@@ -123,7 +123,7 @@
 | First name input | Enter the first name | The first name is entered | Yes | Yes | If user doesn't enter the first name, the error message appears |
 | Last name input | Enter the last name | The last name is entered | Yes | Yes | If user doesn't enter the last name, the error message appears |
 | Email input | Enter the email | The email is entered | Yes | Yes | If user doesn't enter the email, the error message appears. If user enters not valid email, the error message appears |
-| Delivery and shop checkbox | Click on the checkbox | The checkbox is checked | Yes | Yes | These checkboxes are not required as the user can have other reasons for ordering |
+| Delivery and shop checkbox | Click on the checkbox | The checkbox is checked | Yes | Yes | These checkboxes are required to enable the users decide if they want there roses delivered to them or they will pick-up there roses from the shop |
 | "Submit" button | Click on the "Submit" button | The user is redirected to the response page | Yes | Yes | - |
 
 ## Validator testing
