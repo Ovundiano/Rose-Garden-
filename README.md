@@ -252,4 +252,4 @@
 
 ## Note
 
- - Background image of home in larger screen sizes quality is low because it was zoomed by the device to fit in the device screen size. I dont want to change it because I love the uniqueness of the image.
+ - Background image of home in larger screen sizes quality is low because it's zoom by the device screens to fit in. I dont want to change it because I love the uniqueness of the image.
